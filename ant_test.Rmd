@@ -1,6 +1,6 @@
 ---
 title: "ant_nest_nutrients"
-author: "Allison Horst"
+author: "Sean Mueller"
 date: "March 6, 2018"
 output: html_document
 ---
